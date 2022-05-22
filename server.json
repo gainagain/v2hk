@@ -4,14 +4,14 @@
       "protocol": "vless",
       "settings": {
           "clients": [{
-              "id": "6625c1aa-29be-4a78-9860-e0e721cd6ff8"
+              "id": "5d544246-7076-4614-8667-03f2819eb457"
           }],
           "decryption": "none"
       },
       "streamSettings": {
           "network": "ws",
           "wsSettings": {
-              "path": "/"
+              "path": "/ray"
           }
       }
   }],
